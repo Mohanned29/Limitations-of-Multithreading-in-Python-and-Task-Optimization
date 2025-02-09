@@ -31,3 +31,12 @@
 2025-02-09 13:55:29,748 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
 2025-02-09 13:55:29,749 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
 2025-02-09 13:55:29,749 - TaskManager - DEBUG - Fermeture des exécuteurs.
+2025-02-09 15:34:37,971 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-09 15:34:37,972 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-09 15:34:37,975 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-09 15:34:38,169 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.1944, cpu_time=0.1875, ratio=0.96 -> CPU-bound
+2025-02-09 15:34:38,170 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: cpu
+2025-02-09 15:34:38,170 - Core - INFO - Type de tâche détecté: cpu
+2025-02-09 15:34:38,171 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-09 15:34:38,281 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-09 15:34:38,473 - Core - INFO - Tâche exécutée avec succès.
