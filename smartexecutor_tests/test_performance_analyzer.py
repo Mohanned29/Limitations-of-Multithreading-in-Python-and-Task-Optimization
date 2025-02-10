@@ -1,5 +1,5 @@
 import unittest
-from SmartExecutor.performance_analyzer import analyze_task
+from smartexecutor.performance_analyzer import analyze_task
 
 def cpu_task(n):
     total = 0

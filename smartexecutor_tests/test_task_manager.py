@@ -1,5 +1,5 @@
 import unittest
-from SmartExecutor.task_manager import TaskManager
+from smartexecutor.task_manager import TaskManager
 
 def sample_task(x, y):
     return x + y

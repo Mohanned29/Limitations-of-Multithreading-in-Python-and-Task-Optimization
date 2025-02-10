@@ -1,6 +1,6 @@
 import unittest
 import time
-from SmartExecutor.core import run
+from smartexecutor.core import run
 
 def cpu_bound_task(n):
     total = 0
