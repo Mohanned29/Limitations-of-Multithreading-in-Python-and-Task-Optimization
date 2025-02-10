@@ -2,6 +2,7 @@ import unittest
 import time
 import os
 import types
+import logging
 
 from smartexecutor.core import run
 from smartexecutor.config import Config
@@ -37,6 +38,7 @@ def generator_task_wrapper(n):
 
 
 class TestSmartExecutorFull(unittest.TestCase):
+    
     def test_cpu_bound_task(self):
         n = 10000
         expected = sum(i * i for i in range(n))
@@ -95,15 +97,21 @@ class TestSmartExecutorFull(unittest.TestCase):
         Config.set_max_processes(original_processes)
 
     def test_logging_output(self):
-
+        logging.shutdown()
         log_file = Config.LOG_FILE
         if os.path.exists(log_file):
-            os.remove(log_file)
+            try:
+                os.remove(log_file)
+            except PermissionError:
+                pass
+
         run(io_intensive_task, 0.1)
+        time.sleep(0.2)
         self.assertTrue(os.path.exists(log_file))
         with open(log_file, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
             self.assertTrue(len(content) > 0, "Log file should not be empty.")
+
 
 if __name__ == '__main__':
     unittest.main()
