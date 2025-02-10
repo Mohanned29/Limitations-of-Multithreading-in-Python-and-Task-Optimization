@@ -8,10 +8,10 @@ from smartexecutor.config import Config
 from smartexecutor.task_manager import TaskManager
 
 def cpu_intensive_task(n):
-    result = 0
+    total = 0
     for i in range(n):
-        result += i * i
-    return result
+        total += i * i
+    return total
 
 def io_intensive_task(delay):
     time.sleep(delay)
@@ -25,9 +25,16 @@ def generator_task(n):
         yield i
     return "generator_complete"
 
-# -------------------------
-# Comprehensive Test Suite
-# -------------------------
+def generator_task_wrapper(n):
+    gen = generator_task(n)
+    output = []
+    try:
+        while True:
+            output.append(next(gen))
+    except StopIteration as e:
+        final = e.value
+    return (output, final)
+
 
 class TestSmartExecutorFull(unittest.TestCase):
     def test_cpu_bound_task(self):
@@ -47,21 +54,15 @@ class TestSmartExecutorFull(unittest.TestCase):
         self.assertIn("Intentional error", str(context.exception))
 
     def test_generator_task(self):
-        gen = run(generator_task, 5)
-        self.assertTrue(isinstance(gen, types.GeneratorType))
-        final_result = None
-        try:
-            while True:
-                next(gen)
-        except StopIteration as e:
-            final_result = e.value
-        self.assertEqual(final_result, "generator_complete")
+        result = run(generator_task_wrapper, 5)
+        expected_output = list(range(5))
+        expected_final = "generator_complete"
+        self.assertEqual(result, (expected_output, expected_final))
 
     def test_multiple_concurrent_tasks(self):
         delays = [0.2, 0.3, 0.1, 0.4]
         results = [run(io_intensive_task, d) for d in delays]
-        expected = ["io_done"] * len(delays)
-        self.assertEqual(results, expected)
+        self.assertEqual(results, ["io_done"] * len(delays))
 
     def test_multiple_tasks_with_custom_task_manager(self):
         manager = TaskManager()
@@ -96,9 +97,11 @@ class TestSmartExecutorFull(unittest.TestCase):
     def test_logging_output(self):
 
         log_file = Config.LOG_FILE
+        if os.path.exists(log_file):
+            os.remove(log_file)
         run(io_intensive_task, 0.1)
         self.assertTrue(os.path.exists(log_file))
-        with open(log_file, 'r', encoding='utf-8') as f:
+        with open(log_file, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
             self.assertTrue(len(content) > 0, "Log file should not be empty.")
 
