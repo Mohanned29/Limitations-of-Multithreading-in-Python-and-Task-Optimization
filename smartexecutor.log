@@ -477,3 +477,21 @@
 2025-02-11 16:00:20,611 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
 2025-02-11 16:00:20,622 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
 2025-02-11 16:00:20,696 - TaskManager - DEBUG - Fermeture des exécuteurs.
+2025-02-11 16:19:35,231 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:19:35,232 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:19:35,235 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: read
+2025-02-11 16:19:35,237 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:19:35,264 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0276, cpu_time=0.0156, ratio=0.57 -> I/O-bound
+2025-02-11 16:19:35,265 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:19:35,266 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:19:35,266 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:19:35,284 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:19:35,285 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:19:35,286 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:19:35,712 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.4256, cpu_time=0.0156, ratio=0.04 -> I/O-bound
+2025-02-11 16:19:35,713 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:19:35,713 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:19:35,714 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:19:35,714 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:19:35,998 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:19:36,379 - Core - INFO - Tâche exécutée avec succès.
