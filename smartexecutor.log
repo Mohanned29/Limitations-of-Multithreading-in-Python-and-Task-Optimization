@@ -495,3 +495,1628 @@
 2025-02-11 16:19:35,714 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
 2025-02-11 16:19:35,998 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
 2025-02-11 16:19:36,379 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:20:33,963 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:20:33,964 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:20:33,968 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:20:33,968 - PerformanceAnalyzer - DEBUG - Micro-profilage échoué avec exception: Intentional crash!
+2025-02-11 16:20:33,968 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:20:33,969 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:20:33,970 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:20:33,970 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:20:33,971 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:20:34,111 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:20:34,113 - Core - ERROR - Erreur lors de l'exécution de la tâche: Intentional crash!
+2025-02-11 16:20:34,114 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:20:34,114 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,969 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:21:13,970 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,970 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,970 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,974 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,975 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,976 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,976 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,977 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,978 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,979 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,976 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,980 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,977 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,980 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,978 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,978 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,982 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,982 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,979 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,984 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,979 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,984 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,980 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,985 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,981 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,986 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,987 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,981 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,987 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,983 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,988 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,984 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,988 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:13,985 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,986 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,987 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,987 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,988 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,988 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:13,990 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,995 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:13,990 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,996 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:13,990 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,991 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,991 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,991 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,991 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,992 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,992 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,992 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,992 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,992 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,993 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,993 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,993 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:13,993 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,994 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,994 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,995 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,996 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,996 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,996 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:13,997 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,997 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,998 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:13,999 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0004, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,003 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:13,999 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,003 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:13,999 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:13,999 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,000 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,005 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,000 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,005 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,001 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,001 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,001 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,005 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,001 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,006 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,002 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,002 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,006 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,006 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,007 - Core - INFO - Type de tâche détecté: cpu
+o-profilage: io
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,007 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,007 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,003 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,008 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,004 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,005 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,009 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,005 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,009 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,005 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,005 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,005 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,009 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,006 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,010 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,006 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,010 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,007 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,010 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,010 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,007 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,010 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,011 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,008 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,012 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,012 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,012 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,012 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,008 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,013 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,008 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,013 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,009 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,013 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,013 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,009 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,014 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,014 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,009 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,014 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,014 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,010 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,014 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,014 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,015 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,015 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,015 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,166 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:21:14,166 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:21:14,167 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,167 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,167 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,168 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,168 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0005, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,168 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,170 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,168 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,171 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,168 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,171 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,169 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,173 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0005, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,170 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,173 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,170 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,174 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,171 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,174 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,174 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,171 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,177 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,171 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,177 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,171 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,177 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,172 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,172 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,178 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,173 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,179 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,173 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,173 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,180 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,174 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,180 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,174 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,180 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,174 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,181 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0002, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,175 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,182 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,175 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,182 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,183 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:21:14,183 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,176 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,183 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,177 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,184 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,177 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,184 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,177 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,184 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,177 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,184 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,178 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,178 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,185 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0011, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,186 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,178 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,186 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,179 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,186 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,179 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,186 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,180 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,181 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,187 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,188 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,181 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,181 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,188 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,190 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,182 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,188 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,182 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,184 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,188 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,189 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,184 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,193 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,189 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,190 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,184 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,190 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,185 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,190 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,185 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,191 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,187 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,195 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,191 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,188 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,191 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,188 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,192 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,197 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:21:14,192 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,192 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,192 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,193 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,193 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,198 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,193 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,194 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,193 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,195 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,194 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,197 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,194 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,197 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,194 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,197 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,195 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,198 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,196 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,200 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,196 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,200 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,196 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,203 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,201 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,197 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,204 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,201 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,198 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,202 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,198 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,202 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,199 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,204 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,200 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,204 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,201 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,205 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,201 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,206 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,201 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,206 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,202 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,206 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,202 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,207 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,202 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,202 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,208 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,203 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,209 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,203 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,203 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,204 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,210 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,204 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,210 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,205 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,210 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,205 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,210 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,205 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,210 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,205 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,212 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,205 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,206 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,213 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,213 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,206 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,213 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,207 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,207 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,214 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,207 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,214 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,207 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,208 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,216 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,208 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,217 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,209 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,217 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,209 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,217 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,210 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,218 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,210 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,218 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,210 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,219 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,219 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,211 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,219 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,211 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,219 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,212 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,220 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,212 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,220 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,212 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,213 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,220 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,214 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,221 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,221 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,214 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,222 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,215 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,222 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,216 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0005, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,216 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,216 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,217 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,224 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,217 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,224 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,218 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,218 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,225 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,220 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,220 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,225 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,225 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,221 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,221 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,226 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,222 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,226 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,222 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,222 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,226 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,222 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,227 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,228 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,223 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,228 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,223 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,229 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,223 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,229 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,223 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,229 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,230 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,223 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,230 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,224 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,230 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,224 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,230 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,224 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,232 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,225 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,232 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,225 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,233 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,233 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,225 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,233 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,225 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,234 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,226 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,234 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,234 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,226 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,234 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,235 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,227 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,235 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,227 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,227 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,235 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,236 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,228 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,236 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,236 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,229 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,236 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,238 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,229 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0001, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,237 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,230 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,238 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,230 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,238 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,239 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,231 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,239 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,239 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,231 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,240 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,239 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,232 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0009, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,240 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,233 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,240 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,233 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,242 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,242 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,234 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,242 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,234 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,234 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,243 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,236 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,243 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,243 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,236 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,244 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,236 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,237 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,238 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,238 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,239 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,246 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,239 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,247 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,240 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,247 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,240 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,248 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,241 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,248 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,248 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,241 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,241 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,242 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,242 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,242 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,250 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,243 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,250 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,250 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,243 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,243 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,251 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,244 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,252 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,245 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,246 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,252 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,246 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,252 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,246 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,253 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,253 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,247 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,253 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,247 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,254 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,248 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,254 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,254 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,248 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,254 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,249 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0005, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,254 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,249 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,255 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,249 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,255 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,249 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,250 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0012, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,256 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,250 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,257 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,256 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,251 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,251 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,252 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,252 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,258 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,252 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,252 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,258 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,259 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,253 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,259 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,253 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,260 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,253 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,259 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,254 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,260 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,255 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,261 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,255 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,261 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,256 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,261 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,261 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,256 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,256 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,262 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,256 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,263 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,257 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,264 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,264 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,257 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,264 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,257 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,264 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,257 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,265 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,265 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,258 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,258 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,266 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,258 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,260 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,266 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,260 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,267 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,267 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,260 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,267 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,267 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,260 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,267 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,267 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,261 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,261 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,268 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,269 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,262 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,269 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,269 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,270 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,262 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,270 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,263 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,270 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,263 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,271 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,264 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,272 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,264 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,272 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,265 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,272 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,265 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,273 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,265 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,274 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,266 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,274 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,266 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,274 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,266 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,274 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,267 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,275 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,275 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,268 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,276 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,276 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,268 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,276 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,269 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,277 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,270 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,277 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,271 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,271 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,277 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,278 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,271 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,272 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,279 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,272 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,280 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,272 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,273 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,281 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,273 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,281 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,273 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,282 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,274 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,283 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,274 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,275 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,283 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,284 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,275 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,276 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,284 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,276 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,284 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,277 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,277 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,277 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,286 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,286 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,278 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,286 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,279 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,286 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,279 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,280 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,286 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,281 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,287 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,281 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,287 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,281 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,287 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,282 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0014, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,288 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,289 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,282 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,283 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,289 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,283 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,290 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,284 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,284 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,284 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,285 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,291 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,285 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,292 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,291 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,286 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0156, ratio=15.69 -> CPU-bound
+2025-02-11 16:21:14,291 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,286 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,292 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,287 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,292 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,287 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,292 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,288 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,293 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,288 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,294 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,294 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,288 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,295 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,288 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,295 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,295 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,288 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,296 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,289 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,296 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,297 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,289 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,297 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,289 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,297 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,290 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,298 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,291 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,298 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,291 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,292 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,299 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,292 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,299 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,299 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,292 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: cpu
+2025-02-11 16:21:14,299 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,299 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,293 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,300 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,293 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,300 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,301 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,293 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,301 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,293 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,302 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,294 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,294 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,302 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,295 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,302 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,303 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,295 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,303 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,296 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,304 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,303 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,296 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,303 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,297 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,305 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,297 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,306 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,305 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,298 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,306 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,298 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,306 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,298 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,307 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,306 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,299 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:21:14,307 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,299 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,308 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,308 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,301 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,302 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,308 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,302 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,308 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,308 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,303 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,308 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,304 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,304 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,310 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,304 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,311 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,304 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,311 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,305 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,305 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,306 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,306 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,312 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,312 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,306 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,312 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,313 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,306 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,313 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,307 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,314 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,307 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,308 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0000, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,308 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,314 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,308 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,315 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,310 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,310 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,315 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,310 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,315 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,310 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,315 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,311 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,311 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,316 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,316 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,311 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,312 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,317 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,312 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,312 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,317 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,312 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,318 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,313 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,318 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,313 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,314 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,318 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,314 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,318 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,319 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,314 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,315 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,315 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,320 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,315 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,320 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,315 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,320 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,316 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,320 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,320 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,316 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,321 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,316 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,317 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,321 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,321 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,317 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,322 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,318 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,321 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,318 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,322 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,322 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,322 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,319 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,323 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,319 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,323 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,319 - PerformanceAnalyzer - DEBUG - Divergence entre analyse statique et micro-profilage, utilisation de l'analyse statique.
+2025-02-11 16:21:14,323 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,320 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,324 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,324 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,321 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,324 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:21:14,324 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,321 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,324 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,325 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:21:14,322 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,323 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,326 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,323 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,324 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,326 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,324 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,326 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:14,325 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,327 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:14,326 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,326 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,326 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,327 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,328 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,327 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,327 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:14,327 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,328 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:14,824 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5055, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,824 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5067, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,824 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5077, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,824 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5027, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5027, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5068, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5058, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5097, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5087, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,825 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,826 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,833 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,827 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,833 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,828 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,833 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,833 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,829 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,834 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,830 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,834 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,835 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,834 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,831 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,835 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,836 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,831 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,837 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,837 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,837 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,833 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,837 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,838 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,838 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5115, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,838 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5115, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5126, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5107, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5156, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5110, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5146, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5126, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5136, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5136, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5126, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,842 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,842 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,839 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,842 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,843 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,842 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,843 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,843 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,843 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,843 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,843 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,841 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,844 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,843 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,842 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,844 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,844 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,842 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:14,844 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,844 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,845 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,845 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,845 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:14,845 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,845 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:14,845 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,349 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,349 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,349 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,350 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,350 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,350 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,354 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,350 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,355 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,350 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,351 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,352 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,352 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,357 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,354 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,358 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,354 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,358 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,355 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,356 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,358 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,356 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,358 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,359 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,359 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,359 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,360 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,859 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5003, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,860 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,860 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5032, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,861 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,863 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,861 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,866 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,861 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,862 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,863 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,863 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,864 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:15,865 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,867 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,868 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,869 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,874 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,870 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,875 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,875 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5137, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,877 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,870 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,878 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,871 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,875 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5142, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,872 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,876 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5165, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,873 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,876 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5147, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,876 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5148, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,873 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:15,905 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,876 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,910 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,876 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,877 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,875 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5142, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:15,905 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,911 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,906 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,912 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,907 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,913 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,908 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,908 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,916 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,913 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,915 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,917 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,909 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,910 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,910 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,911 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,906 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:15,918 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,918 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,907 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,909 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:15,919 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,917 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,920 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:15,920 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:15,918 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:15,920 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,368 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,369 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,369 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,369 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,370 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,371 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,371 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,372 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,375 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,376 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,377 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,378 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,378 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,379 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,379 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,381 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,384 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,385 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,386 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,387 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,415 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5006, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,415 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,415 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5026, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,415 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,415 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5046, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,416 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,415 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,417 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,418 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,418 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,420 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,420 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,421 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,421 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,420 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,422 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,421 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,422 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,422 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,422 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,431 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5108, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,431 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,431 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5113, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,432 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,431 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5136, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,431 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5146, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,431 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5136, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,432 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,433 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,433 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,433 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,433 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,434 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,434 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,434 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,432 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,434 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,434 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,434 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,881 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,882 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,882 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,882 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,883 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,883 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,888 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,884 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,889 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,886 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,889 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,891 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,892 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,893 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,894 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,895 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5099, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5145, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5155, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5165, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5155, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,897 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,900 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,898 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,901 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,901 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,902 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,898 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,899 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,903 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,903 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,903 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,900 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,904 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,904 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,904 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,928 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,928 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5044, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,928 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5044, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,928 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,929 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,930 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,928 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,929 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,930 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,932 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,931 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,933 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,934 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,935 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,931 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,933 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,931 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,937 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,936 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,938 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:16,943 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:16,943 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5089, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:16,944 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:16,944 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:16,944 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:16,945 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:16,944 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:16,945 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,389 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,390 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,390 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,390 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,391 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,395 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,391 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,392 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,397 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,394 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,398 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,399 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,400 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,401 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,401 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,401 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,404 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5094, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,404 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5088, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,404 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5118, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,404 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5118, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,405 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,408 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,406 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,407 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,408 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,409 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,407 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,409 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,410 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,409 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,409 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,410 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,437 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,437 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5010, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,437 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,437 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,438 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,438 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,439 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,441 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,441 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,441 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,442 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,443 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,442 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,443 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,444 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,444 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,452 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5070, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,452 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,452 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5155, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,453 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,452 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5145, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:17,453 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,455 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,456 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,453 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,456 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,454 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,457 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,455 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,457 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,457 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,457 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,901 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,901 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5009, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:17,902 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,904 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,902 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,902 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,903 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,905 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,909 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,910 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,906 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,911 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,910 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,907 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,912 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,909 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,913 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,914 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,915 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,915 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,916 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5143, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,916 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5143, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,916 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5145, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,918 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,918 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,919 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,919 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,918 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,919 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,919 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,919 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,920 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,948 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,948 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5033, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,948 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,948 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5015, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,949 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,949 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5019, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:17,949 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,950 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,950 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,952 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,952 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,953 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,954 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,954 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,955 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,956 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,955 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,956 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,956 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,956 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,957 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:17,956 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,957 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,957 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,963 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:17,963 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5062, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:17,963 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:17,963 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:17,963 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:17,963 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:17,965 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:17,965 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,412 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,412 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5021, cpu_time=0.0000, ratio=0.00 -> I/O-bound
+2025-02-11 16:21:18,413 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,415 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,413 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,414 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,415 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,416 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,416 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,421 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,422 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,422 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,422 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,417 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,418 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,424 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,425 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,426 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,426 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,426 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,428 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5113, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,428 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5116, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,428 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5150, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,428 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,430 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,431 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,430 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,431 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,431 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,432 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,432 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,433 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,458 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5015, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,458 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,458 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5015, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,458 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5015, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,458 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,460 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,460 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,460 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,460 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,461 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,462 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,463 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,463 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,463 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,464 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,465 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,465 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,465 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,465 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,465 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,466 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,467 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,467 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,474 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,474 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5095, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,475 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,475 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,475 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,475 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,475 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,476 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,922 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,923 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,923 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,923 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,924 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,925 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,928 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,925 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,930 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,927 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,930 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,932 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,932 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,934 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,934 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,936 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5129, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5109, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5139, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5119, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,940 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,938 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,941 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,939 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,941 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,940 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,943 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,943 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,943 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,944 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,944 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,969 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5017, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,970 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,970 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5030, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,970 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,970 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5020, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,970 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,970 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,971 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,972 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,973 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,974 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,974 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,976 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,975 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,977 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,975 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,977 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,976 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,978 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,978 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,979 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,978 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,980 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,979 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:18,984 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5088, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:18,985 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:18,985 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:18,985 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:18,985 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:18,985 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:18,985 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:18,986 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,436 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5007, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,437 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,436 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5018, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,437 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,438 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,438 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,440 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,438 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,439 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,441 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,447 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,442 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,448 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,448 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,442 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,444 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,449 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,453 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,450 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,445 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,451 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5151, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:19,451 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5143, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:19,452 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,455 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,455 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,456 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,457 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,457 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,457 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,456 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,458 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,456 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,481 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,481 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5026, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,481 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5016, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,481 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,481 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5016, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,481 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,483 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,481 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,483 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,483 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,483 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,484 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,484 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,484 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,484 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,484 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,485 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,484 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,485 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,485 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,484 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,485 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,486 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,486 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,497 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5109, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,497 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,497 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,497 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,497 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,497 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,497 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,497 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,946 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,946 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,947 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,947 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,948 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,948 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,949 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,952 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,950 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,953 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,955 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,955 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,956 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,957 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,958 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,959 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:19,961 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5032, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,961 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5069, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,961 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5101, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,961 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5032, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,961 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,964 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,962 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,965 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,966 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,963 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,966 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,967 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,964 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,967 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,968 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,968 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,992 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5065, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,992 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,992 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,992 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5065, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,992 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:19,992 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5055, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:19,993 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,993 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,994 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,995 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:19,995 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,996 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:19,997 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:19,997 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,998 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:20,000 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:19,999 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:19,999 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:20,000 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:20,000 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,001 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:20,001 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,001 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:20,001 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,007 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5100, cpu_time=0.0156, ratio=0.03 -> I/O-bound
+2025-02-11 16:21:20,007 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,007 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:21:20,007 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,007 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,007 - PerformanceAnalyzer - DEBUG - Mot-clé I/O détecté dans le code source: sleep
+2025-02-11 16:21:20,007 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,008 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: io
+2025-02-11 16:21:20,456 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,456 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,456 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,456 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,471 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5106, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:20,471 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5116, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:20,471 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5095, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:20,472 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5125, cpu_time=0.0312, ratio=0.06 -> I/O-bound
+2025-02-11 16:21:20,472 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,473 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,475 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,474 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,476 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,475 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,475 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,476 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,477 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,477 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,477 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,479 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,502 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,502 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,502 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,517 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5156, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:20,518 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,517 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5159, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:20,517 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5089, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:20,517 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.5150, cpu_time=0.0469, ratio=0.09 -> I/O-bound
+2025-02-11 16:21:20,518 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,520 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,522 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,521 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,523 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,521 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: io
+2025-02-11 16:21:20,522 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,524 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,523 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,524 - Core - INFO - Type de tâche détecté: io
+2025-02-11 16:21:20,526 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,526 - TaskManager - DEBUG - Soumission d'une tâche I/O-bound.
+2025-02-11 16:21:20,967 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,967 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,967 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:20,969 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,013 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,013 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,013 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,028 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,475 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,475 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,475 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:21:21,475 - Core - INFO - Tâche exécutée avec succès.
+2025-02-11 16:41:37,362 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:41:37,363 - Core - INFO - Exécution de la tâche demandée avec SmartExecutor.
+2025-02-11 16:41:37,366 - PerformanceAnalyzer - DEBUG - Analyse statique du code source: cpu
+2025-02-11 16:41:37,398 - PerformanceAnalyzer - DEBUG - Profilage: wall_time=0.0309, cpu_time=0.0312, ratio=1.01 -> CPU-bound
+2025-02-11 16:41:37,422 - PerformanceAnalyzer - DEBUG - Analyse micro-profilage: cpu
+2025-02-11 16:41:37,422 - Core - INFO - Type de tâche détecté: cpu
+2025-02-11 16:41:37,423 - TaskManager - DEBUG - Soumission d'une tâche CPU-bound.
+2025-02-11 16:41:37,561 - TaskManager - DEBUG - TaskManager initialisé avec ThreadPoolExecutor et ProcessPoolExecutor.
+2025-02-11 16:41:38,109 - Core - INFO - Tâche exécutée avec succès.
