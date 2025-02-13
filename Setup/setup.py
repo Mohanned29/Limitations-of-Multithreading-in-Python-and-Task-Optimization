@@ -1,25 +1,29 @@
-import setuptools
+from setuptools import setup, find_packages
 
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
+import os
 
-setuptools.setup(
-    name="smartexecutor",
-    version="1.0.0",
-    author="Votre Nom",
-    author_email="votre.email@example.com",
-    description="Une bibliothèque pour exécuter automatiquement des tâches en utilisant threading ou multiprocessing",
+here = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
+
+setup(
+    name='smartexecutor',
+    version='0.1.0',
+    description='A Python library to auto-select between ThreadPool and ProcessPool for task execution based on task type.',
     long_description=long_description,
-    long_description_content_type="text/markdown",
-    url="https://github.com/Mohanned29/Limitations-of-Multithreading-in-Python-and-Task-Optimization",
-    packages=setuptools.find_packages(),
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ],
-    python_requires='>=3.6',
+    long_description_content_type='text/markdown',
+    author='Mezghenna Mohanned',
+    author_email='mezh2911@gmail.com',
+    url='https://github.com/Mohanned29/Limitations-of-Multithreading-in-Python-and-Task-Optimization',
+    packages=find_packages(),
     install_requires=[
-        "requests",
+        'requests',
+        'psutil'
     ],
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'Operating System :: Microsoft :: Windows',
+        'License :: OSI Approved :: MIT License',
+    ],
+    python_requires='>=3.8'
 )
