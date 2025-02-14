@@ -25,27 +25,5 @@ SmartExecutor automates the decision-making process by:
 - **Unified API:**  
   Developers simply use the `run()` function, and the library handles the rest.
 
-## Example Usage
 
-Below are two examples that demonstrate how to use SmartExecutor.
-
-### Example 1: CPU-bound Task
-
-```python
-from smartexecutor.core import run
-
-def heavy_computation(n):
-    total = 0
-    for i in range(n):
-        total += i ** 2
-    return total
-
-if __name__ == "__main__":
-    n = 1000000
-    result = run(heavy_computation, n)
-    print("CPU-bound task result:", result)
-
-```
-
-
-# TO BE CONTINUED . . .
+# TO BE CONTINUED . . . UNFINISHED PROJECT
